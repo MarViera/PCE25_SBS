@@ -1,0 +1,41 @@
+[2025-05-23 14:27:54] Inicio de ejecuci髇 del script
+[2025-05-23 14:27:54] Resultado verificaci髇 IP: IP 8.8.8.8 (ISP: Google LLC, Pa韘: Desconocido) - Tiene 256 reportes (Confianza de abuso: 0%) [WARNING]
+[2025-05-23 14:27:54] Resultado verificaci髇 IP: IP 192.168.1.1 (ISP: None, Pa韘: Desconocido) - Tiene 9 reportes (Confianza de abuso: 0%) [WARNING]
+[2025-05-23 14:27:55] Resultado verificaci髇 IP: IP 10.0.0.1 (ISP: Private IP Address LAN, Pa韘: Desconocido) - Tiene 102 reportes (Confianza de abuso: 0%) [WARNING]
+[2025-05-23 14:27:55] Fin de ejecuci髇 del script
+
+[2025-05-23 14:35:42] Inicio de ejecuci贸n del script
+[2025-05-23 14:35:44] IPs activas encontradas: 0.0.0.0, 104.18.26.90, 104.208.203.89, 127.0.0.1, 140.82.114.26, 192.168.1.4, 35.174.127.31, 8.45.52.201, 8.45.52.230
+[2025-05-23 14:35:44] Resultado verificaci贸n IP: IP 0.0.0.0 (ISP: Broadcast RFC1700, Pa铆s: Desconocido) - Tiene 99 reportes (Confianza de abuso: 0%) [WARNING]
+[2025-05-23 14:35:44] Resultado verificaci贸n IP: IP 104.18.26.90 (ISP: Cloudflare, Inc., Pa铆s: Desconocido) - Tiene 3 reportes (Confianza de abuso: 0%) [WARNING]
+[2025-05-23 14:35:45] Resultado verificaci贸n IP: IP 104.208.203.89 (ISP: Microsoft Corporation, Pa铆s: Desconocido) - No tiene reportes en AbuseIPDB [CLEAN]
+[2025-05-23 14:35:45] Fin de ejecuci贸n del script
+
+[2025-05-23 14:56:29] Inicio de ejecuci贸n del script
+[2025-05-23 14:56:32] IPs activas encontradas: 0.0.0.0, 104.208.203.89, 127.0.0.1, 140.82.112.25, 192.168.1.4, 35.174.127.31, 8.45.52.227
+[2025-05-23 14:56:32] Resultado verificaci贸n IP: IP 0.0.0.0 (ISP: Broadcast RFC1700, Pa铆s: Desconocido) - Tiene 99 reportes (Confianza de abuso: 0%) [WARNING]
+[2025-05-23 14:56:32] Resultado verificaci贸n IP: IP 104.208.203.89 (ISP: Microsoft Corporation, Pa铆s: Desconocido) - No tiene reportes en AbuseIPDB [CLEAN]
+[2025-05-23 14:56:32] Resultado verificaci贸n IP: IP 127.0.0.1 (ISP: None, Pa铆s: Desconocido) - Tiene 246 reportes (Confianza de abuso: 0%) [WARNING]
+[2025-05-23 14:56:32] Fin de ejecuci贸n del script
+
+[2025-05-23 15:42:51] Inicio de ejecuci贸n del script
+[2025-05-23 15:42:53] IPs activas encontradas: 0.0.0.0, 104.208.203.89, 104.26.12.38, 127.0.0.1, 13.69.239.79, 132.181.109.13, 140.82.114.26, 172.178.160.19, 18.214.173.230, 192.168.1.4, 20.189.173.1, 20.50.201.195, 212.102.40.114, 35.174.127.31, 51.104.15.252, 52.109.0.23
+[2025-05-23 15:42:53] Resultado verificaci贸n IP: IP 0.0.0.0 (ISP: Broadcast RFC1700, Pa铆s: Desconocido) - Tiene 99 reportes (Confianza de abuso: 0%) [WARNING]
+[2025-05-23 15:42:54] Resultado verificaci贸n IP: IP 104.208.203.89 (ISP: Microsoft Corporation, Pa铆s: Desconocido) - No tiene reportes en AbuseIPDB [CLEAN]
+[2025-05-23 15:42:54] Resultado verificaci贸n IP: IP 104.26.12.38 (ISP: Cloudflare, Inc., Pa铆s: Desconocido) - Tiene 8635 reportes (Confianza de abuso: 0%) [WARNING]
+[2025-05-23 15:42:54] Fin de ejecuci贸n del script
+
+[2025-05-23 15:47:19] Inicio de ejecuci贸n del script
+[2025-05-23 15:47:21] IPs activas encontradas: 0.0.0.0, 104.208.203.89, 127.0.0.1, 140.82.114.25, 18.214.173.230, 192.168.1.4, 212.102.40.114, 35.174.127.31, 52.123.255.34
+[2025-05-23 15:47:21] Resultado verificaci贸n IP: IP 0.0.0.0 (ISP: Broadcast RFC1700, Pa铆s: Desconocido) - Tiene 99 reportes (Confianza de abuso: 0%) [WARNING]
+[2025-05-23 15:47:21] Resultado verificaci贸n IP: IP 104.208.203.89 (ISP: Microsoft Corporation, Pa铆s: Desconocido) - No tiene reportes en AbuseIPDB [CLEAN]
+[2025-05-23 15:47:21] Resultado verificaci贸n IP: IP 127.0.0.1 (ISP: None, Pa铆s: Desconocido) - Tiene 250 reportes (Confianza de abuso: 0%) [WARNING]
+[2025-05-23 15:47:21] Fin de ejecuci贸n del script
+
+[2025-05-23 16:28:40] Inicio de ejecuci贸n del script
+[2025-05-23 16:28:41] IPs activas encontradas: 0.0.0.0, 104.208.203.89, 127.0.0.1, 13.107.13.93, 140.82.114.25, 18.214.173.230, 192.168.1.4, 20.189.173.10, 20.189.173.28, 20.42.65.93, 35.174.127.31
+[2025-05-23 16:28:42] Resultado verificaci贸n IP: IP 0.0.0.0 (ISP: Broadcast RFC1700, Pa铆s: Desconocido) - No tiene reportes en AbuseIPDB [CLEAN]
+[2025-05-23 16:28:42] Resultado verificaci贸n IP: IP 104.208.203.89 (ISP: Microsoft Corporation, Pa铆s: Desconocido) - No tiene reportes en AbuseIPDB [CLEAN]
+[2025-05-23 16:28:42] Resultado verificaci贸n IP: IP 127.0.0.1 (ISP: None, Pa铆s: Desconocido) - No tiene reportes en AbuseIPDB [CLEAN]
+[2025-05-23 16:28:42] Fin de ejecuci贸n del script
+
