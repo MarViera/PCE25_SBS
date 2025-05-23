@@ -1,0 +1,7 @@
+[2025-05-23 15:41:38] Inicio de ejecución del script
+[2025-05-23 15:41:40] IPs activas encontradas: 0.0.0.0, 104.208.203.89, 127.0.0.1, 140.82.114.26, 172.178.160.19, 192.168.1.4, 23.203.60.67, 35.174.127.31
+[2025-05-23 15:41:41] Resultado verificación IP: IP 0.0.0.0 (ISP: Broadcast RFC1700, País: Desconocido) - Tiene 99 reportes (Confianza de abuso: 0%) [WARNING]
+[2025-05-23 15:41:41] Resultado verificación IP: IP 104.208.203.89 (ISP: Microsoft Corporation, País: Desconocido) - No tiene reportes en AbuseIPDB [CLEAN]
+[2025-05-23 15:41:41] Resultado verificación IP: IP 127.0.0.1 (ISP: None, País: Desconocido) - Tiene 249 reportes (Confianza de abuso: 0%) [WARNING]
+[2025-05-23 15:41:41] Fin de ejecución del script
+
